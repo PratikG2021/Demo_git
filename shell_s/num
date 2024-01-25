@@ -1,0 +1,7 @@
+echo "Enter first number: "
+echo "Enter second number: "
+read number1
+read number2
+var=$((number1+number2))
+echo "$var"
+
